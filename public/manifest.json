@@ -1,0 +1,26 @@
+{
+  "short_name": "A-lister",
+  "name": "Job Lister",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "images/icons/icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "images/icons/icon-152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    }
+  ],
+  "start_url": "/index.html",
+  "scope":".",
+  "display": "standalone",
+  "theme_color": "blueviolet",
+  "background_color": "violet"
+}
